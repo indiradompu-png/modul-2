@@ -10,4 +10,10 @@
 - Repository ini dibuat untuk memenuhi tugas praktikum Matematika Diskrit.Tujuan penulisan repository ini adalah untuk menerapkan logika Boolean menggunakan python melalui 8 studi kasus dalam kehidupan sehari-hari.
 
 # STUDI KASUS
-- 
+- Analisi Bilangan Menggunakan Fungsi Modular Dalam Python
+
+# 
+
+
+
+
