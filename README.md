@@ -12,7 +12,16 @@
 # STUDI KASUS
 - Analisi Bilangan Menggunakan Fungsi Modular Dalam Python
 
-# 
+# ALUR MATERI
+- 1.Fungsi Modular(Modular Programming)
+- 2.Bilangan Ganjil Genap
+- 3.Bilangan Prima
+- 4.FPB (Faktor Persekutuan Terbesar
+- 5.KPK (Kelipatan Persekutua Terbesar)
+- 6.Konversi Desimal Ke Hex Heksadesimal
+- 7.Implementasi Program Python
+
+
 
 
 
